@@ -18,6 +18,7 @@ I started this course to get practice in frontend development and work on my sel
 * React Basics
 * VC Code
 * Git, GitHub
+
 ---
 ### Code example:
 
