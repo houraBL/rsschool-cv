@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool repository 
+https://hourabl.github.io/rsschool-cv/cv
