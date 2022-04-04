@@ -1,28 +1,28 @@
-rsschool-cv
+# [rsschool-cv](https://hourabl.github.io/rsschool-cv/)
 
-Anastasiia Blagoveshchenskaiia
+# Anastasiia Blagoveshchenskaiia
 
-RS School student
+## RS School student
+---
 
-Contact information:
-Phone: +79302920426
-E-mail: houra@yandex.ru
-GitHub: https://github.com/houraBL
-
-About me:
-I consider myself as a bright person with great mind. Recently i had lack of motivation and concentration, but I'm working on it.
-
-I started this course to get practice in frontend development and work on my self-organization.
-
-Skills:
-*HTML5 Basics, CSS Basics
-*JavaScript Basics
-*Tree.js Basics
-*React Basics
-*VC Code
-*Git, GitHub
-
-Code example:
+## Contact information:
+### Phone: +79302920426
+### E-mail: houra@yandex.ru
+### GitHub: [houraBL](https://github.com/houraBL/)
+---
+## About me:
+#### I consider myself as a bright person with great mind. Recently i had lack of motivation and concentration, but I'm working on it.
+#### I started this course to get practice in frontend development and work on my self-organization.
+---
+## Skills:
+* HTML5 Basics, CSS Basics
+* JavaScript Basics
+* Tree.js Basics
+* React Basics
+* VC Code
+* Git, GitHub
+---
+## Code example:
 
 ```javascript
 function sumUpLayers() {
@@ -35,8 +35,7 @@ function sumUpLayers() {
     canvas.updateTextures();
 }
 ```
-
-Education:
-*University: National Research University 'Higher School of Economics'
-*English: Intermediate/Upper-intermediate
-*Russian: Native
+---
+## Education:
+* University: National Research University 'Higher School of Economics'
+* Languages: English (Intermediate/Upper-intermediate), Russian (Native)
